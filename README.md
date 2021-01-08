@@ -12,7 +12,8 @@
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin] **|**
-✍🏾 [essays][blog]
+✍🏾 [essays][essays]
+
 
 [website]: https://lewisngugi.com
 [twitter]: https://twitter.com/ngeshlew
