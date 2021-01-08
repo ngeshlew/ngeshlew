@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on getting a full time developer job
+- 🔭 I’m currently working as a Product Designer for Lookback
 - 🌱 I’m currently learning all the time 
 - 🤔 I’m looking for help with getting a developer job
 - 💬 Ask me about #CoderDads 
