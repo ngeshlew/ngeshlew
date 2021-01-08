@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hi 👋🏾
 
 
 
-- 🔭 I’m currently working as a Product Designer for Lookback
-- 🌱 I’m currently learning all the time 
-- 🤔 I’m looking for help with getting a developer job
-- 💬 Ask me about #CoderDads 
+- 🔭 I’m working as a Product Designer at Lookback
+- 🌱 Self-taught multidisciplinary and fullstack designer
+- 💬 Ask me about community building 
 - 😄 Pronouns: he/him
 
 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+✍🏾 [essays][blog]
 
-[website]: https://emmettnaughton.com
-[twitter]: https://twitter.com/emmettnaughton
-[linkedin]: https://www.linkedin.com/in/emmett-naughton/
+[website]: https://lewisngugi.com
+[twitter]: https://twitter.com/ngeshlew
+[linkedin]: https://www.linkedin.com/in/ngeshlew/
+[essays]: https://medium.com/@ngeshlew
