@@ -4,7 +4,7 @@
 
 - 🔭 I’m working as a Product Designer at Lookback
 - 🌱 Self-taught multidisciplinary and fullstack designer
-- 💼 Open source design contributor
+- ❤️ Open source design contributor
 - 💬 Ask me about community building 
 - 😄 Pronouns: he/him
 
