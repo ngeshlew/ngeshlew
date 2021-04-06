@@ -1,10 +1,10 @@
 ### Hi 👋🏾 
 
 
-- 🔭 Product Design @Lookback, prev @getkwara 
+- 🔭 Product Design [@Lookback](https://lookback.io?rel=lewisngugi.com), prev [@getkwara](https://kwara.com/?rel=lewisngugi.com) 
 - 🌞 Community-bred Designer 
 - 👐🏾 Open-source Design Contributor 
-- ✍🏾 Content Creator @design_x_us
+- ✍🏾 Content Creator [@design_x_us](https://twitter.com/design_x_us)
 - 💬 Ask me about [community building](https://gettogether.fm/episodes/lewis-kangethe?ref=lewisngugi)
 - 😄 Pronouns: he/him
 - 🏗 [Primarily maintaining](https://www.lewisngugi.com/home/essays/product-resources-board) the [PeopleWho](https://github.com/peoplewhoafrica)
