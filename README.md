@@ -1,13 +1,13 @@
 ### Hi 👋🏾 
 
 
-
-- 🔭 Product Designer at Lookback.io
-- 🌱 Self-taught multidisciplinary and fullstack designer
-- ❤️ Open source design contributor
+- 🔭 Product Design @Lookback, prev @getkwara 
+- 🌞 Community-bred Designer 
+- 👐🏾 Open-source Design Contributor 
+- ✍🏾 Content Creator @design_x_us
 - 💬 Ask me about [community building](https://gettogether.fm/episodes/lewis-kangethe?ref=lewisngugi)
 - 😄 Pronouns: he/him
-- 🏗 [Primarily maintaining](https://www.lewisngugi.com/home/essays/product-resources-board) the product (design & research) [talent](https://bit.ly/KEDesignDirectory) and [hiring](https://bit.ly/KEDesignJobsDirectory) boards
+- 🏗 [Primarily maintaining](https://www.lewisngugi.com/home/essays/product-resources-board) the [PeopleWho](https://github.com/peoplewhoafrica)
 
 
 
