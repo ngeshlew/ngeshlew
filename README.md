@@ -1,7 +1,7 @@
 ### Hi 👋🏾 
 
 
-- 🔭 Senior Product Designer [@Lookback](https://lookback.com?rel=lewisngugi.com), prev [@getkwara](https://kwara.com/?rel=lewisngugi.com) 
+- 🔭 Senior Product Designer [@HubSpot](https://hubspot.com?rel=lewisngugi.com), prev [@Lookback](https://lookback.com?rel=lewisngugi.com), [@getkwara](https://kwara.com/?rel=lewisngugi.com) 
 - 🌞 Community-bred Designer 
 - 👐🏾 Open-source Design Contributor 
 - ✍🏾 Content Creator [@design_x_us](https://twitter.com/design_x_us)
